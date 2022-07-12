@@ -1,9 +1,35 @@
-## Welcome to Donald G. McGahans GitHub Pages
+## Donald G. McGahan
+
+This is a place to put bits and items to be worked on, and perhaps 
+	completed items.
+
+University instruction in the United States of America increasingly
+	demands technology.
+
+Is the technology a tool? Is it becoming grafted into our pedagogy
+	such that we are bionic? Are we becoming Borg? As a University
+	Professor I think about the tools I use for delivery of content,
+	and I think about how they are used.
+
+I often wish the tools were better, or easier to use. My impression
+	is that today many learners cannot understand why University
+	instructors don't deliver more flash, wow, pop, bang, and glitz.
+
+The learner of today is surrounded and bombarded by very polished and
+	often sophisticated sales pitches but at Universities we
+	generally are using technologies from 200 to 400 years ago.
+
+A good story told in person is powerful. We learn much by discourse.
+	Personally, I believe that the great technology of the Gutenberg
+	press is still important, but can it be augmented? I use
+	technology. Technology bits and bytes are tools. I get a little
+	wrapped up in what they can do. Am I becoming Professor Borg? Is
+	resistance to technology futile?
 
 I am an environmental scientist with a strong foundation in soil
-	morphology, soil characterization, and soil mineralogy. I am interested 
-  in identifying systematic variation in soil morphology using
-	relationships with climate, vegetation, geomorphology, and
+	morphology, soil characterization, and soil mineralogy. I am
+	interested in identifying systematic variation in soil morphology
+	using relationships with climate, vegetation, geomorphology, and
 	geology. By studying the evolution of soils (a very slowly
 	renewable resource), relationships vital to addressing landscape
 	scale issues are better understood. Soil in the environment and
