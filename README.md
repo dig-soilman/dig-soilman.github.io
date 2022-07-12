@@ -1,7 +1,9 @@
 ## Donald G. McGahan
 
-This is a place to put bits and items to be worked on, and perhaps 
-	completed items.
+GitHub is a place to put bits and items to be worked on, and perhaps 
+	links to completed items.
+	
+### About Me
 
 University instruction in the United States of America increasingly
 	demands technology.
@@ -25,6 +27,8 @@ A good story told in person is powerful. We learn much by discourse.
 	technology. Technology bits and bytes are tools. I get a little
 	wrapped up in what they can do. Am I becoming Professor Borg? Is
 	resistance to technology futile?
+	
+### Academic Interests
 
 I am an environmental scientist with a strong foundation in soil
 	morphology, soil characterization, and soil mineralogy. I am
@@ -39,5 +43,9 @@ I am an environmental scientist with a strong foundation in soil
 	use(s) for non-agricultural soil(s). In addition, understanding
 	soil is also vital to to the conservation of many other natural
 	resources.
+	
+### Tenure
+
+I am a Professor of Soil Science at Tarleton State University in Texas USA.
   
   
