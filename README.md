@@ -47,5 +47,10 @@ I am an environmental scientist with a strong foundation in soil
 ### Tenure
 
 I am a Professor of Soil Science at Tarleton State University in Texas USA.
-  
+
+### Links to other repositories
+
+A web page [Glossary of Soil Science Terms](https://dig-soilman.github.io/soil-glossary/) and [repository](https://github.com/dig-soilman/soil-glossary.git).  
+SASES Region IV Judging Guides [repository](https://github.com/dig-soilman/SASES_RegionIV-Soil-Judging).  
+
   
