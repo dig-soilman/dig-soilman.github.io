@@ -46,7 +46,7 @@ I am an environmental scientist with a strong foundation in soil
 	
 ### Tenure
 
-I am a Professor of Soil Science at Tarleton State University in Texas USA.
+I am a Professor of Soil Science at Tarleton State University in Texas USA. A Member of the Texas A&M System.
 
 ### Links to other repositories
 
