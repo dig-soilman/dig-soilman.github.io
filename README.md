@@ -52,5 +52,6 @@ I am a Professor of Soil Science at Tarleton State University in Texas USA.
 
 * A web page [Glossary of Soil Science Terms](https://dig-soilman.github.io/soil-glossary/) and [repository](https://github.com/dig-soilman/soil-glossary.git).  
 * SASES Region IV Judging Guides [repository](https://github.com/dig-soilman/SASES_RegionIV-Soil-Judging).  
+* Introductory College level treatise/book chapter [Soil_Physical_Properties](https://dig-soilman.github.io/Soil_Physical_Properties) a Creative Commons Atribution-ShareAlike 4.0 International available as beta PDF for download.  
 
   
